@@ -10,6 +10,6 @@
 
  - Dozenten: Florian Fink
 
-Sie erreichen den Dozenten und die Tutoren unter:
+Sie erreichen den Dozenten unter:
 
 kb21 [at] cis [dot] uni [minus] muenchen [dot] de
