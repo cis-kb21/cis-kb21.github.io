@@ -9,3 +9,7 @@
 Sie erreichen den Dozenten unter:
 
 kb21 [at] cis [dot] uni [minus] muenchen [dot] de
+
+| Datum | Folien | Hausaufgaben | Sonstige Materialien |
+|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| 15. April, 2021 | [Einführung](00_einfuehrung.pdf){:target="_blank"} | | |
