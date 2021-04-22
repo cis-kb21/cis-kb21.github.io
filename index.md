@@ -13,3 +13,4 @@ kb21 [at] cis [dot] uni [minus] muenchen [dot] de
 | Datum | Folien | Übungsaufgaben | Sonstige Materialien |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | 15. April, 2021 | [Einführung](00_einfuehrung.pdf){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210415.mp4) |
+| 22. April, 2021 | [Shell-Skripte](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/01/01_shell_skripte.ipynb) | | |
