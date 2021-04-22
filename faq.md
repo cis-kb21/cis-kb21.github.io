@@ -18,8 +18,36 @@ unter https://github.com/cis-kb21/cis-kb21.github.io.git
 * [SourceTree](https://www.sourcetreeapp.com/)
 
 *Q: Ich habe das Git-Repository.  Wie kann ich das aktuelle Notebook erhalten?*<br/>
-A:Verwenden Sie den graphischen Git-Client und aktuallisieren Sie das Repository
+A: Verwenden Sie den graphischen Git-Client und aktuallisieren Sie das Repository
 oder führen Sie (innerhalb des Git-Verzeichnisses) folgenden Befehl aus:
 ```bash
 git pull origin main
+```
+
+*Q: Ich habe das Git-Repository.  Wie kann ich das aktuelle Notebook erhalten?*<br/>
+A: Verwenden Sie den graphischen Git-Client und aktuallisieren Sie das Repository
+oder führen Sie (innerhalb des Git-Verzeichnisses) folgenden Befehl aus:
+```bash
+git pull origin main
+```
+
+*Q: Wie kann ich ein Notebook starten?*<br/>
+A: Wechseln Sie in das entsprechende Verzeichnis (`jupyter/..`) und
+starten Sie das Notebook (jupyter muss installiert sein) mit folgenden Befehl:
+```bash
+jupyter notebook
+```
+
+*Q: Wie kann ich jupyter installieren?*<br/>
+A: Global (benötigt pip und python):
+```bash
+sudo pip install jupyter
+```
+oder lokal (benötigt python):
+```bash
+python -m venv venv
+source venv/bin/activate
+pip install jupyter
+...
+deactivate
 ```
