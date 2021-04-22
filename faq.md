@@ -12,7 +12,7 @@ git clone https://github.com/cis-kb21/cis-kb21.github.io.git
 
 *Q: Wie kann ich das Kurs-Repository ohne einen Konsolen-Client clonen?*<br/>
 A: Verwenden Sie einen der unten angegebenen graphischen Git-Clients und clonen Sie das Repository
-unter (https://github.com/cis-kb21/cis-kb21.github.io.git).
+unter https://github.com/cis-kb21/cis-kb21.github.io.git
 * [GitKraken](https://www.gitkraken.com/)
 * [TortoiseGit](https://tortoisegit.org/)
 * [SourceTree](https://www.sourcetreeapp.com/)
