@@ -10,6 +10,15 @@ Sie erreichen den Dozenten unter:
 
 kb21 [at] cis [dot] uni [minus] muenchen [dot] de
 
+In der Vorlesung werden mit Hilfe von Programmen in einer
+Skriptsprache, speziellen Anwendungen und Betriebssystemtools große
+Korpora erschlossen, verarbeitet und linguistisch annotiert. Es werden
+wichtige Aufgaben der Korpusbearbeitung, wie z.B. Textkonvertierungen,
+Tokenisierungen, Erstellen von Frequenzlisten, Konkordanzen,
+n-Gramm-Extraktion vorgestellt und Lösungen erarbeitet. Parallel dazu
+werden auch einige exemplarisch ausgewählte Korpora und Verfahren der
+Arbeit mit Korpora vorgestellt und damit gearbeitet.
+
 Frequently asked questions: [FAQ](faq.md)
 
 | Datum | Folien | Übungsaufgaben | Sonstige Materialien |
