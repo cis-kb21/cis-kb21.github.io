@@ -27,4 +27,4 @@ Frequently asked questions: [FAQ](faq.md)
 | 22. April, 2021 | [Shell-Skripte](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/01/01_shell_skripte.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210422.mp4){:target="_blank"} |
 | 29. April, 2021 | [Unix-Werkzeuge](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/02/02_werkzeuge.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210429.mp4){:target="_blank"} |
 | 06. Mai, 2021 | [Ein- und Ausgabe](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/03/03_io.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210506.mp4){:target="_blank"} |
-| 20. Mai, 2021 | [sed und awk](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/04/04_sed_awk.ipynb){:target="_blank"} | | |
+| 20. Mai, 2021 | [sed und awk](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/04/04_sed_awk.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210520.mp4){:target="_blank"} |
