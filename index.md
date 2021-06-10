@@ -29,4 +29,4 @@ Frequently asked questions: [FAQ](faq.md)
 | 06. Mai, 2021 | [Ein- und Ausgabe](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/03/03_io.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210506.mp4){:target="_blank"} |
 | 20. Mai, 2021 | [sed und awk](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/04/04_sed_awk.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210520.mp4){:target="_blank"} |
 | 27. Mai, 2021 | [Unicode](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/05/05_encoding.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210527.mp4){:target="_blank"} |
-| 10. Juni, 2021 | [XML](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/06/06_encoding.ipynb){:target="_blank"} | | |
+| 10. Juni, 2021 | [XML](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/06/06_xml.ipynb){:target="_blank"} | | |
