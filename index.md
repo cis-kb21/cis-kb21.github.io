@@ -31,4 +31,4 @@ Frequently asked questions: [FAQ](faq.md)
 | 27. Mai, 2021 | [Unicode](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/05/05_encoding.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210527.mp4){:target="_blank"} |
 | 10. Juni, 2021 | [XML](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/06/06_xml.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210610.mp4){:target="_blank"} |
 | 17. Juni, 2021 |[XML2](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/07/07_xml.ipynb){:target="_blank"} | [xmlpos](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/07/xmlpos.ipynb){:target="_blank"} |  [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210617.mp4){:target="_blank"} |
-| 17. Juni, 2021 |[POS](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/08/08_pos_tagging.ipynb){:target="_blank"} |||
+| 24. Juni, 2021 |[POS](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/08/08_pos_tagging.ipynb){:target="_blank"} |||
