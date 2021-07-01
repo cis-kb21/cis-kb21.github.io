@@ -1,6 +1,6 @@
 # Kurs "Korpusbearbeitung"
-### Sommersemester 2021
-### Centrum für Informations- und Sprachverarbeitung, LMU München
+## Sommersemester 2021
+## Centrum für Informations- und Sprachverarbeitung, LMU München
 
  - Zeit/Vorlesung: Do 14:00-16-00 (c.t.)
  - Ort/Vorlesung: [Zoom](https://lmu-munich.zoom.us/j/8366632112?pwd=cWc3ck5ML0t1c0VnUTZ2Zit2aUpFdz09)
@@ -32,3 +32,4 @@ Frequently asked questions: [FAQ](faq.md)
 | 10. Juni, 2021 | [XML](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/06/06_xml.ipynb){:target="_blank"} | | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210610.mp4){:target="_blank"} |
 | 17. Juni, 2021 |[XML2](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/07/07_xml.ipynb){:target="_blank"} | [xmlpos](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/07/xmlpos.ipynb){:target="_blank"} |  [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210617.mp4){:target="_blank"} |
 | 24. Juni, 2021 |[POS](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/08/08_pos_tagging.ipynb){:target="_blank"} || [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210624.mp4){:target="_blank"} |
+| 01. Juli, 2021 |[APIs](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/09/09_apis.ipynb){:target="_blank"} | [APIs](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/09/comp_pos_taggers.ipynb){:target="_blank"} | |
