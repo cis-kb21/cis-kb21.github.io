@@ -19,6 +19,9 @@ n-Gramm-Extraktion vorgestellt und Lösungen erarbeitet. Parallel dazu
 werden auch einige exemplarisch ausgewählte Korpora und Verfahren der
 Arbeit mit Korpora vorgestellt und damit gearbeitet.
 
+Die Klausur findet am 22.07.2021 um 14:00 Uhr s.t. statt. Anmerkungen
+zum Vorgehen finden Sie im FAQ.
+
 Frequently asked questions: [FAQ](faq.md)
 
 | Datum | Folien | Übungsaufgaben | Sonstige Materialien |
@@ -34,3 +37,4 @@ Frequently asked questions: [FAQ](faq.md)
 | 24. Juni, 2021 |[POS](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/08/08_pos_tagging.ipynb){:target="_blank"} || [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210624.mp4){:target="_blank"} |
 | 01. Juli, 2021 |[APIs](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/09/09_apis.ipynb){:target="_blank"} | [compare pos taggers](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/09/comp_pos_taggers.ipynb){:target="_blank"} | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210701.mp4){:target="_blank"} |
 | 08. Juli, 2021 |[Crawler](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/10/10_async.ipynb){:target="_blank"} | [dtacrawl.py](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/10/dtacrawl.ipynb){:target="_blank"} [dtacrawl_async.py](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/jupyter/10/dtacrawl_async.ipynb){:target="_blank"} | [Video](http://cis.lmu.de/~finkf/recordings/zoom/kb21/20210708.mp4){:target="_blank"} |
+| 15. Juli, 2021 |[Zusammenfassung](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/11_summary.pdf){:target="_blank"} | | |

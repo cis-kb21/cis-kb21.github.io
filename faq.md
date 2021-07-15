@@ -51,3 +51,7 @@ pip install jupyter
 ...
 deactivate
 ```
+
+*Q: Wie wird die Klausur durchgeführt?*<br/>
+A: Die Verteilung und die Abgabe der Klausur finden über Moodle statt.
+Näheres dazu finden Sie in den [Folien vom 15.07.2021](https://github.com/cis-kb21/cis-kb21.github.io/blob/main/11_summary.pdf).
