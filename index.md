@@ -22,6 +22,11 @@ Arbeit mit Korpora vorgestellt und damit gearbeitet.
 Die Klausur findet am 22.07.2021 um 14:00 Uhr s.t. statt. Anmerkungen
 zum Vorgehen finden Sie im FAQ.
 
+## Aktualisierung (02.08.2021)
+Die Klausuren sind korrigiert.  Wenn Sie die Klausur mitegeschrieben
+haben, sollten Sie eine Email erhalten haben.  Bei Problemen wenden
+Sie sich an den Dozenten.
+
 Frequently asked questions: [FAQ](faq.md)
 
 | Datum | Folien | Übungsaufgaben | Sonstige Materialien |
