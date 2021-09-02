@@ -22,6 +22,14 @@ Arbeit mit Korpora vorgestellt und damit gearbeitet.
 Die Klausur findet am 22.07.2021 um 14:00 Uhr s.t. statt. Anmerkungen
 zum Vorgehen finden Sie im FAQ.
 
+## Aktualisierung (02.09.2021)
+Die Nachholklausur findet am Donnerstag, den 21.10.2021 von 14:00 --
+16:00 Uhr statt.  Um gleiche Bedingungen für die Nachholklausur sicher
+zu stellen, findet die Nachholklausur, genau wie die ursprüngliche
+Klausur, online statt (sehen sie dazu den Eintrag im [FAQ](faq.md)).
+Bitte vergessen Sie nicht, sich zur Nachholklausur im LSF anzumelden.
+Der Anmeldezeitraum ist vom 27.09.2021 bis zum 11.10.2021.
+
 ## Aktualisierung (02.08.2021)
 Die Klausuren sind korrigiert.  Wenn Sie die Klausur mitgeschrieben
 haben, sollten Sie eine Email erhalten haben.  Bei Problemen wenden
